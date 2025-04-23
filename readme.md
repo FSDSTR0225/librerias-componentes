@@ -60,6 +60,7 @@
 - 🔎 React Select – Selects con búsqueda y estilos
 - 📅 React Datepicker – Calendario personalizable
 - ⏳ React Spinners – Loaders visuales con props
+- 📞 React Phone Input 2 – Input de teléfono con validación
 
 ---
 
