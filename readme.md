@@ -1,4 +1,4 @@
-# Guía para juniors – Componentes en React sin CSS-in-JS
+# Componentes en React sin CSS-in-JS
 
 🕒 **Duración total: 2 horas**
 
