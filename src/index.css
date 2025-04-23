@@ -1,0 +1,42 @@
+@import "tailwindcss";
+@theme {
+  --color-primary-100: #4a90e2;
+  --color-primary-200: #357ab8;
+  --color-primary-300: #2a6496;
+  --color-primary-400: #1f4e74;
+  --color-primary-500: #123456;
+  --color-primary-600: #0f2a4d;
+  --color-primary-700: #0c1e3a;
+  --color-primary-800: #091a27;
+  --color-primary-900: #060f14;
+
+  --color-beli-100: #f0f8ff;
+  --color-beli-200: #e0f0ff;
+  --color-beli-300: #c0e0ff;
+
+  --color-beli-400: #a0d0ff;
+  --color-beli-500: #80c0ff;
+  --color-beli-600: #60b0ff;
+}
+
+.btn-primary {
+  /*@apply text-white font-bold py-2 px-4 rounded bg-primary-500;*/
+
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  background-color: var(--color-beli-500);
+}
+
+p.paragraph {
+  font-weight: lighter;
+}
+
+.paragraph {
+  font-weight: 300;
+}
+
+#test {
+  font-weight: bolder;
+}
